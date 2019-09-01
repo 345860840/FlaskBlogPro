@@ -71,7 +71,7 @@ a.gaoqing:hover { color: #FF702D; text-decoration: underline; }
 .replay p a { color: white; font-size: 14px; }
 .replay p a:hover { color: #FF702D; text-decoration: underline; }
 .imgdivtext { position: absolute; bottom: 0px; height: 25px; width: 120px; background: rgba(0, 0, 0, 0.6); line-height: 25px; text-align: center; left: 0px; z-index: 4; *background:#000;
-*filter:alpha(opacity=50);
+.filter:alpha(opacity=50);
 }
 .imgdivtext a { color: White; font-size: 14px; font-weight: bold; }
 .imgdivtext a:hover { color: #FF702D; text-decoration: underline; }
